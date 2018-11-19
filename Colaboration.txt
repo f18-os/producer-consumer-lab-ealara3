@@ -1,0 +1,1 @@
+Ricardo Alvarez help me to start by introducing me the semaphores. He help me by giving a hint of acquiring 10 times the semaphores
